@@ -1,0 +1,20 @@
+body{
+background-color: #bedcfa;
+}
+.top{
+    background-color: #ffce89;
+}
+.mid1{
+    background-color: #fff76a;
+}
+.mid2{
+    background-color: #adce74;
+}
+.bottom{
+    background-color: #61b15a;
+}
+.name{
+    text-align: center;
+    font-style: italic;
+    font-size: 55px;
+}
